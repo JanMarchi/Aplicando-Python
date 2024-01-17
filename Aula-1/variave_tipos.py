@@ -39,5 +39,8 @@ persona = {'nome': 'Maria', 'idade': 43 }
 numero_unicos = {1, 2, 3, 4, 5}
 
 
+# NomeType(None): Representa a ausência de valores.
 
+valor_nulo  =  None
+ 
  
